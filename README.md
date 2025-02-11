@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#redux
+-Install @reduxjs/toolkit and react-redux
+-BUild our store
+connect our to our app
+slice(cartSlice)
+dispatch(action)
+selector(subscribe)
